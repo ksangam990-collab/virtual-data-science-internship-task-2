@@ -1,0 +1,17 @@
+{
+    "total_titles": 7777,
+    "total_movies": 5377,
+    "total_tv": 2400,
+    "movie_pct": 69.1,
+    "tv_pct": 30.9,
+    "mature_share": 46.5,
+    "median_movie_len": 98.0,
+    "tv_one_season_pct": 67.0,
+    "top_nations": {
+        "United States": 2877,
+        "India": 956,
+        "United Kingdom": 576,
+        "Canada": 259,
+        "Japan": 236
+    }
+}
